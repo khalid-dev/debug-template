@@ -1,0 +1,3 @@
+[install.scopes]
+"@vaguevoid" = { url = $REGISTRY_URL, "username" =
+$REGISTRY_USER }
